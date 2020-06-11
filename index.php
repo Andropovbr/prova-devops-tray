@@ -38,7 +38,7 @@
                 $resultado = 14;
             }
      }  
-echo $resultado;
+
         
 
         $hostname=$_SERVER['SERVER_NAME'];
